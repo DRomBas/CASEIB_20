@@ -1,3 +1,6 @@
 # CASEIB_20
 
-Software empleado para el artículo "Análisis morfológico de la fóvea basado en OCT: estado del arte, dimorfismo sexual y envejecimiento"
+Some code snippets and data used in "Análisis morfológico de la fóvea basado en OCT: estado del arte, dimorfismo sexual y envejecimiento"
+
+
+![Image description](pipeline.png)
