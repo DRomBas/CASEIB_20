@@ -3,4 +3,4 @@
 Some code snippets and data used in "Análisis morfológico de la fóvea basado en OCT: estado del arte, dimorfismo sexual y envejecimiento"
 
 
-![Image description](pipeline.png)
+![Image description](Figures/pipeline.png)
